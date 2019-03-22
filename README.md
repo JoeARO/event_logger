@@ -1,3 +1,5 @@
+Ownership has been transferred and further changes will happen there, please see: https://github.com/bbc/stump to keep updated.
+
 # Stump
 
 Stump is an Elixir log wrapper that allows you to pass Maps into the built in Logger function, returning them in a JSON format and outputting to a file in Production mode.
